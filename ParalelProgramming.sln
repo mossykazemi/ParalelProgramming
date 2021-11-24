@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAndTPL", "TaskAndTPL\TaskAndTPL.csproj", "{97594B76-F0DD-41AF-B76E-D78958D0DF60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeTask", "FacadeTask\FacadeTask.csproj", "{6327109E-ACA9-4D05-A418-F67C98FFBB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{97594B76-F0DD-41AF-B76E-D78958D0DF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97594B76-F0DD-41AF-B76E-D78958D0DF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97594B76-F0DD-41AF-B76E-D78958D0DF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
