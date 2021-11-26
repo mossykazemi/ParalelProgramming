@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAndTPL", "TaskAndTPL\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeTask", "FacadeTask\FacadeTask.csproj", "{6327109E-ACA9-4D05-A418-F67C98FFBB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWait", "TaskWait\TaskWait.csproj", "{287E5B12-E266-4129-B3D7-80A4261B6452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6327109E-ACA9-4D05-A418-F67C98FFBB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287E5B12-E266-4129-B3D7-80A4261B6452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287E5B12-E266-4129-B3D7-80A4261B6452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287E5B12-E266-4129-B3D7-80A4261B6452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287E5B12-E266-4129-B3D7-80A4261B6452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
