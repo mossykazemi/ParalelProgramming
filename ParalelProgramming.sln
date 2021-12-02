@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskExceptions", "TaskExcep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildTaskExceptions", "ChildTaskExceptions\ChildTaskExceptions.csproj", "{FE3B4A21-2907-4D92-B9E2-83EC240FCF4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling_ContinueWith", "ErrorHandling_ContinueWith\ErrorHandling_ContinueWith.csproj", "{1EF5EE44-5D79-42C7-95D8-DC1D7879171C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{FE3B4A21-2907-4D92-B9E2-83EC240FCF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE3B4A21-2907-4D92-B9E2-83EC240FCF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE3B4A21-2907-4D92-B9E2-83EC240FCF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF5EE44-5D79-42C7-95D8-DC1D7879171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF5EE44-5D79-42C7-95D8-DC1D7879171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF5EE44-5D79-42C7-95D8-DC1D7879171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF5EE44-5D79-42C7-95D8-DC1D7879171C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
