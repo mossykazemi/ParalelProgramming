@@ -17,3 +17,6 @@ if (queue.TryDequeue(out int resultDequeue))
 }
 
 Console.WriteLine($"Final Queue {string.Join(", ",queue.ToArray())}");
+
+Console.WriteLine("*** End Main ***");
+Console.ReadKey();
