@@ -24,6 +24,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLinq", "ParallelLin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLinqQueryPerformance", "PLinqQueryPerformance\PLinqQueryPerformance.csproj", "{0BCF56A7-58A9-4A82-8AA5-966D7CAAF954}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentDictionary", "ConcurrentDictionary\ConcurrentDictionary.csproj", "{05D73349-956E-4058-AF79-AFC3B3743AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentQueue", "ConcurrentQueue\ConcurrentQueue.csproj", "{9F32E722-05C8-4C11-9C59-4037BD27AC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentStack", "ConcurrentStack\ConcurrentStack.csproj", "{959B69C3-757A-4C2E-8720-4123EC99B4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentBag", "ConcurrentBag\ConcurrentBag.csproj", "{DA99E373-BEBD-48B1-A215-8FA80C67EF28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +86,21 @@ Global
 		{0BCF56A7-58A9-4A82-8AA5-966D7CAAF954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCF56A7-58A9-4A82-8AA5-966D7CAAF954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCF56A7-58A9-4A82-8AA5-966D7CAAF954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D73349-956E-4058-AF79-AFC3B3743AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D73349-956E-4058-AF79-AFC3B3743AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D73349-956E-4058-AF79-AFC3B3743AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D73349-956E-4058-AF79-AFC3B3743AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F32E722-05C8-4C11-9C59-4037BD27AC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F32E722-05C8-4C11-9C59-4037BD27AC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F32E722-05C8-4C11-9C59-4037BD27AC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F32E722-05C8-4C11-9C59-4037BD27AC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959B69C3-757A-4C2E-8720-4123EC99B4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959B69C3-757A-4C2E-8720-4123EC99B4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959B69C3-757A-4C2E-8720-4123EC99B4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959B69C3-757A-4C2E-8720-4123EC99B4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA99E373-BEBD-48B1-A215-8FA80C67EF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA99E373-BEBD-48B1-A215-8FA80C67EF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA99E373-BEBD-48B1-A215-8FA80C67EF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA99E373-BEBD-48B1-A215-8FA80C67EF28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
